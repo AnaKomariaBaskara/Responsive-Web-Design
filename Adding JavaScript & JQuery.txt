@@ -1,0 +1,17 @@
+Using JQuery, fill in the blanks to show an alert message when the document is ready.
+$ (function (){
+alert ("hey");
+});
+
+
+Which tag is used to include the JQuery library?
+script
+
+
+
+Using JQuery fill in the blanks to call the show() function for the element with the id="test"
+$("#test").show();
+
+
+What is Flexbox?
+A CSS layout model
